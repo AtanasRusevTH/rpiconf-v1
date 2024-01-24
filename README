@@ -1,4 +1,46 @@
-If you are interested in this project, we will be glad to know and potentially collaborate. In this case, please contact <office@triplehelix-consulting.com>.
+This is an additional project to 
+https://github.com/TripleHelixConsulting/meta-thc-v1
+The main project contains a full detailed PDF. Here are the most important points from its README:
+====================================================================
+This is a complete EXAMPLE PROJECT WITH GUIDE for creating a YOCTO build for RASPBERRY PI (RPI).
 
-See https://kaloyanski.github.io/meta-thc for details.
+The main target is RPI4, but with minimal edits it shall support any Yocto-supported RPI with HDMI.
 
+The project is up-to-date with the Detailed Manual pdf document, titled:
+"Manual for Custom Yocto-based minimal Linux Image for Raspberry Pi.pdf"
+
+The document contains many sections, some of which are:
+
+2. Yocto in 5 minutes from a technical perspective___________________________________________________4
+3. What do you need on Manjaro to run a Yocto build________________________________________________7
+4. The RPI 4B Platform and the Display___________________________________________________________7
+5. Yocto and Raspberry PI_____________________________________________________________________8
+7. Yocto versions and information, how to know what kernel version do we build from Poky__________________9
+8. The BitBake build steps_____________________________________________________________________10
+9. Fetching the project and building it yourself - super easy, with only a few commands_____________________12
+10. Our project structure and bitbake basics_______________________________________________________14
+
+11. Starting the board________________________________________________________________________21
+Using halt and reboot_____________________________________________________________________22
+Connecting via SSH______________________________________________________________________22
+
+12. Networking and starting the WiFi____________________________________________________________23
+13. The SW provided by our image______________________________________________________________23
+BusyBox, Shell, Init system, Libraries, X11, Avahi, Dropbear SSH, wpa_supplicant,...
+Looking for other modules, present or not.__________________________________________________26
+Logs, Kernel, Editor, Clock
+
+16. Processor, CPU Speed, and HW specification_______________________________________________26
+17. Adding a module______________________________________________________________________27
+14. IMGUI DEMO___________________________________________________________________________27
+15. Changing for different HW__________________________________________________________________28
+
+16. Important Yocto Links_____________________________________________________________________28
+
+17. License, development, and contribution_______________________________________________________29
+18. Change Requests, Bugs, Contributions, New Features___________________________________________30
+19. Projects and work orders, partnerships________________________________________________________30
+20. Copyright notice
+
+If you are interested in this project, we will be glad to know and potentially collaborate. In this case, please contact <office at triplehelix-consulting dot com>.
+====================================================================
